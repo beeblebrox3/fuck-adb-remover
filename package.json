@@ -1,0 +1,7 @@
+{
+    "name": "FuckAdBlockRemover",
+    "version": "1.0.0",
+    "scripts": {
+        "pack": "rm fuck-adb-remover.zip ; zip -9 -r \"--exclude=*.git*\" fuck-adb-remover.zip ./"
+    }
+}
